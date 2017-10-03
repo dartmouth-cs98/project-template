@@ -1,7 +1,8 @@
 # Project Name Proposal
 ### Team Members | CS98 17F
 
-![Team Photo](Insert a Team Photo here)
+![Team Photo](Insert a Team Photo URL here)
+[*how?*](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
 ## Problem Statement
 
