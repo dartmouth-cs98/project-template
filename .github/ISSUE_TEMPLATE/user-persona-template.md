@@ -1,9 +1,6 @@
 ---
 name: User Persona Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+about: for user personas
 
 ---
 
