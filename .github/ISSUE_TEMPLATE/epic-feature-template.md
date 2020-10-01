@@ -1,9 +1,6 @@
 ---
 name: Epic/Feature Template
 about: for features
-title: ''
-labels: ''
-assignees: ''
 
 ---
 
