@@ -1,40 +1,24 @@
-# Project Name Proposal
-### Team Members | CS98 17F
+# Project Name
 
 ![Team Photo](Insert a Team Photo URL here)
 [*how?*](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
-## Problem Statement
+TODO: short project description, some sample screenshots or mockups
 
-What is the problem you are aiming to solve? Who are your target users?
+## Architecture
 
-## Impact
+TODO:  descriptions of code organization and tools and libraries used
 
-Briefly explain how the project meets a real-world need.
+## Setup
 
-## Prior Work
+TODO: how to get the project dev environment up and running, npm install etc
 
-Include any existing solutions and explain how you plan on differentiating your product. You should have ~10 different sources. These can range from commercial/competitive solutions to research papers that inform some part of your product. 
+## Deployment
 
-## Proposed Solution
+TODO: how to deploy the project
 
-Briefly describe your proposed solution.  How does it work and what does it do?
+## Authors
 
-## Team
+TODO: list of authors
 
-Who are your team members? Identify what skills each team member brings to the table as well as preferred work style (take charge, work alone, pair programming, etc).
-
-## Strategy
-
-Outline your development strategy with general feature milestones - identify minimum viable product features and optional stretch goals. Explain how you plan to test your product.
-
-## Implementation Challenges
-
-What development challenges have you thought about so far?  Identify any risks and briefly discuss possible workarounds / alternatives. 
-
-## Meeting Schedule
-
-You are required to spend at least 10 hours/week on development. Outline a general weekly meeting schedule with at least 1 time that everybody can make. At least that one meeting must include the entire team in the same room, in person. The rest of the 10 hours may be split into several sessions throughout the week. A nice tool for this is [when2meet](https://www.when2meet.com/).
- 
-
-
+## Acknowledgments
